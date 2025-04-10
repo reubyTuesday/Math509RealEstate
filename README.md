@@ -7,5 +7,5 @@ Two datasets:
 
 Three crucial jupyter notebook files:
   1. USA_Dataset_Ohio.ipynb   --- working code for Ohio Dataset
-  2. boston_dataset_math509_project_V1_FIXED.ipynb  --- working code for Boston Dataset
-  3. boston_dataset_math509_project_V1.ipynb  --- code for Boston data. Initially I was working on this file, but not loading in colab notebook
+  2. Boston_Dataset_math509_project_V1_FIXED.ipynb  --- working code for Boston Dataset
+  3. Boston_Dataset_math509_project_V1.ipynb  --- code for Boston data. Initially I was working on this file, but not loading in colab notebook

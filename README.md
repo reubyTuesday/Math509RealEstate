@@ -1,5 +1,5 @@
 # Math509RealEstate
-Math 509 Project - Global Real Estate
+Math 509 Project - Real Estate Price Trends and Predictions
 
 Two datasets:
   1. Boston_Housing_Dataset.csv  --- Boston Housing Dataset
